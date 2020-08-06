@@ -21,6 +21,8 @@
 
 <br />
 
-## My GitHub Stats (I'm new to this so they aren't great!)
+---
+
+## My GitHub Stats (I'm very new to this so they aren't great!)
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EasyKey5&show_icons=true&hide_border=true" />
